@@ -1,2 +1,3 @@
 # hello-world
-test program to start learning git
+
+This is a simple test program to help me start learning git.
